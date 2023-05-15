@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "quickscraper-sdk": "^1.1.2"
+    "quickscraper-sdk": "^1.1.9"
   }
 }
