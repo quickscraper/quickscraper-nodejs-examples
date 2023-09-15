@@ -1,0 +1,112 @@
+{
+    "isSuccess": true,
+    "data": {
+        "jobList": [
+            {
+                "companyLogo": "https://securemedia.newjobs.com/clu/xawd/xawdrecukx/JobLogo.gif",
+                "jobTitle": "Independent Form F Assessor",
+                "companyName": "AWD online",
+                "postedOn": "1 day ago",
+                "isRemote": "remote",
+                "jobTabs": [
+                    "Part-time",
+                    "Permanent",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": null,
+                "jobTitle": "Maths and English Tutor Oxford",
+                "companyName": "Explore Learning",
+                "postedOn": "Today",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": "https://securemedia.newjobs.com/clu/xbra/xbrandtrustcpaukx/JobLogo.gif",
+                "jobTitle": "Area Office Co-ordinator",
+                "companyName": "Brandon Trust",
+                "postedOn": "1 day ago",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Permanent",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": "https://securemedia.newjobs.com/clu/xDig/xDigidenLtdukx/JobLogo.gif",
+                "jobTitle": "Learning Support Assistant",
+                "companyName": "Digiden Ltd",
+                "postedOn": "Today",
+                "isRemote": false,
+                "jobTabs": [
+                    "£26,137–£26,137 Per Year",
+                    "Part-time",
+                    "Permanent",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": null,
+                "jobTitle": "Dental Nurse",
+                "companyName": "Bupa Dental Care",
+                "postedOn": "1 day ago",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": null,
+                "jobTitle": "Line Chef",
+                "companyName": "HIlton",
+                "postedOn": "Today",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": "https://securemedia.newjobs.com/clu/xawd/xawdrecukx/JobLogo.gif",
+                "jobTitle": "Administrator / Receptionist / FOH Reception Desk / Weekend / Saturday",
+                "companyName": "AWD online",
+                "postedOn": "Today",
+                "isRemote": false,
+                "jobTabs": [
+                    "£21,190–£22,215 Per Year",
+                    "Part-time",
+                    "Permanent",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": null,
+                "jobTitle": "Kitchen Porter - 20hrs week",
+                "companyName": "HIlton",
+                "postedOn": "Today",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Actively Hiring"
+                ]
+            },
+            {
+                "companyLogo": "https://securemedia.newjobs.com/clu/xexp/xexpd8cpaukx/JobLogo.gif",
+                "jobTitle": "Beauty Display Merchandiser L3",
+                "companyName": "eXPD8",
+                "postedOn": "1 day ago",
+                "isRemote": false,
+                "jobTabs": [
+                    "Part-time",
+                    "Actively Hiring"
+                ]
+            }
+        ]
+    }
+}
