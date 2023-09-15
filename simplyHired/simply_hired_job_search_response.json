@@ -20,13 +20,8 @@
             "dateOnPosted": "7 days ago",
             "jobDescription": "Our mission and the companyMy Code Kit is building Ocobox; the tool to demystify coding by turning failure into a positive first attempt at learning.Since 2020, we’ve been awarded 3 Innovate UK Awards for our unique idea as we address the challenges found when learning to code. Our unique coding tool, Ocobox, utilises AI/ML to promote ‘productive failure’.It’s a Python coding editor and AI learning assistant which builds resilience by coaching students through errors, and coding concepts; encouraging greater independence. Ocobox will make coding more accessible and enjoyable to a wider audience, ultimately increasing and diversifying the pipeline into careers in technology.Overview of the role (TLDR)We are looking for a versatile Software Engineer with a passion for both infrastructure and innovative development to work on our coding tool, Ocobox. This is a six-month fixed contract, however, there may be an opportunity for the contract to be extended – dependent on the success of our beta launch and future investment.How you will spend your timeCollaborating with our team to maintain, optimise and update our current infrastructure to ensure data integrity and system performance.Employing your expertise in handling infrastructure tasks to streamline processes, troubleshoot issues, and enhance the reliability of our systems.Developing robust TypeScript code for both backend and frontend applications, contributing to the evolution of our user-centric platforms.Participating actively in refinement sessions, sharing your technical perspective to collaboratively shape the direction of our projects and propose technical solutions that enhance user experience.Crafting SQL queries to generate user reports, leveraging data to provide meaningful insights to teachers.Playing a vital role in building our chat AI assistant using RASA Open Source framework using Python code to power the chatbot’s intelligent responses and interactions, enhancing user engagement.Tech we use and what we’d love to see from youConfident using frontend web frameworks such as React and React Native.Capable with Typescript and Express (Node.js)Experience with source control and confidence working with CI/CD pipelinesExperience with AWS or similarExperience with NoSQL and SQL Databases.A basic understanding of NLU frameworks. We use RASA Open Source to enable the chatbot to understand user intents, entities, sentiments and context (the code is written with basic Python).A curiosity for serverless and WebSocketsA love for learning new thingsResearch shows that 70-80% of programming is debugging and testing (and googling). Therefore we know that skills are transferable and that specific tech stacks can be learnt so we would still love to hear from you even if you feel you’re not a 100% match!What to expect when you join our teamA part-time role (4 days a week but this is negotiable)A salary of £50,000 – £60,000 pro rata.28 days holiday (pro rata & including bank holidays) and an extra day off on your birthday.Plus a company winter shutdown between Christmas and New Year.Indulge your desire to work from anywhere, as we’re fully remote.Satisfy your cravings for balance with flexible hours. While 9-5 doesn’t fit everyone, we’re here from 9-12 pm for team collaborations.Nourish your mental well-being with the Juno wellbeing app’s support.Our core values of compassion, curiosity, equality and accessibility, mean that we put our learners first and we are working towards ensuring that every learning experience is a success.Job Types: Part-time, Temporary contractContract length: 6 monthsPart-time hours: 32 per weekSalary: £40,000.00-£48,000.00 per yearBenefits:Additional leaveCompany pensionFlexitimeHealth & wellbeing programmeWork from homeSchedule:FlexitimeMonday to FridayWork authorisation:United Kingdom (required)Work Location: Remote"
         },
+        "totalPosting": "10,083",
         "jobList": [
-            {
-                "position": "Software Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/jHv27o91MomMm2yC_CqLGUW8BeUmLoqUdGTf_sDeWwrB9AOd6oL2kA?q=software+developer",
-                "subTitle": "Jaguar Land Rover - Gaydon",
-                "shortDEscription": "Implementation of all applicable testing for software. Consult on the development of parts of the software system. Contribute to CICD and DevOps practises."
-            },
             {
                 "position": "Full Stack Developer",
                 "jobLink": "https://www.simplyhired.co.uk/job/nFkMHmOVZvM462YfLo2eHJAOnEwZcX-1LJD2SzgNzL3fu3u55vd9gw?q=software+developer",
@@ -40,76 +35,22 @@
                 "shortDEscription": "This is on top of the many company funded social events arranged by our social team including team celebrations, walking weekends away, weekly five a side…"
             },
             {
+                "position": "Software Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/jHv27o91MomMm2yC_CqLGUW8BeUmLoqUdGTf_sDeWwrB9AOd6oL2kA?q=software+developer",
+                "subTitle": "Jaguar Land Rover - Gaydon",
+                "shortDEscription": "Implementation of all applicable testing for software. Consult on the development of parts of the software system. Contribute to CICD and DevOps practises."
+            },
+            {
                 "position": "Junior Software Engineer",
                 "jobLink": "https://www.simplyhired.co.uk/job/Isc_9SIkE8ptOAs_z47Yf_3WYdZcbCey0o9WtSCWT7x6mXtIOVRbng?q=software+developer",
                 "subTitle": "ABL Group - Aberdeen",
                 "shortDEscription": "Participate in code reviews to support other software engineers. Document code and develop getting started guides for other software engineers."
             },
             {
-                "position": "Software Developer Apprentice",
-                "jobLink": "https://www.simplyhired.co.uk/job/EBOtN0aSfzjX0n8nyZbNhBvfBoPunAPovucigqNMDbgeI2ntq968hQ?q=software+developer",
-                "subTitle": "QA Apprenticeships - Lanarkshire +2 locations",
-                "shortDEscription": "Adare Sec have a rich heritage of partnering with financial and business services as well as the public sector to help improve communication between their…"
-            },
-            {
-                "position": "Graduate Software Engineer (starting Q1 2024)",
-                "jobLink": "https://www.simplyhired.co.uk/job/t54THRsHD-k5HrwxQaYoBwJoCyd7_r_ntKCJSzz9Fdq1UlgAjArAVw?q=software+developer",
-                "subTitle": "Autodesk - Birmingham",
-                "shortDEscription": "The software we develop is both challenging and rewarding - from writing toolpath algorithms in C++ to developing web components in TypeScript - so we ensure…"
-            },
-            {
-                "position": "Software Engineer - Frontend",
-                "jobLink": "https://www.simplyhired.co.uk/job/RZ_tkxM9KQ7wpGqxz0B3aX2bgP2W26UhsfZMTZ1hldk0dQQNQTBROQ?q=software+developer",
-                "subTitle": "Henry Schein One - Gillingham",
-                "shortDEscription": "Take full ownership of the product/feature from idea to operating in production. Work effectively with product managers, other engineers and business…"
-            },
-            {
-                "position": "Software Developer - 100% Remote",
-                "jobLink": "https://www.simplyhired.co.uk/job/AlZMD7FAswtP_JMe2jZ5cOo8cKwozvTC23qEtHFsRy58iOUF9_X9tA?q=software+developer",
-                "subTitle": "Performance - Liverpool +11 locations",
-                "shortDEscription": "Embedded software experience is desired but not required. Positions are either full-time or hourly and you can work from your home in the UK."
-            },
-            {
-                "position": "Software Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/YGHBmQBH9HGVguwT0QJDDjj1VQ7WETKCK2FNMvlBWVhAS7VukJG45w?q=software+developer",
-                "subTitle": "Liaison Group - Remote",
-                "shortDEscription": "Demonstrable experience of engaging with business teams and distilling business requirements into production software. Job Type Permanent & Full Time."
-            },
-            {
-                "position": "Software Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/qsJnqau2NMEelyjyNCPLVeBhEnVCvfOpcVZkz08v7WlWJoK6DlAQkg?q=software+developer",
-                "subTitle": "iCabbi - Sheffield",
-                "shortDEscription": "Employee Status: Full Time, Permanent. Experience: 2 years minimum in a Development Role working with PHP and the full LAMP stac."
-            },
-            {
-                "position": "Ensoft Software Engineer Internship - Summer 2024",
-                "jobLink": "https://www.simplyhired.co.uk/job/543cb_9TRQxNgoIUtIFFe7AiAGZFUadqoQ6Usxsdd1AywyWtD1nQ6w?q=software+developer",
-                "subTitle": "Cisco Systems - Harpenden",
-                "shortDEscription": "When available, the salary range posted for this position reflects the projected hiring range for new hire, full-time salaries in U.S. locations, not including…"
-            },
-            {
-                "position": "Senior Python Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/-T907wi1XfItRBV_Qfql8pSPrTIMpPzzn6rYVzKYu4jOFbj0Na0ysA?q=software+developer",
-                "subTitle": "UK Health Security Agency - Remote",
-                "shortDEscription": "Design, create and test software sub-systems and component using proven software engineering practices. You will use the Scrum agile delivery methodology and…"
-            },
-            {
-                "position": "Software Development Internship",
-                "jobLink": "https://www.simplyhired.co.uk/job/2MHqQyn__pTsoVnYyW7HHBLNa6MRosbCnAq9vz3KfhvFzEXFOnvEdA?q=software+developer",
-                "subTitle": "Softwire - London",
-                "shortDEscription": "You and your intern colleagues will be exposed to the full delivery lifecycle, guided by experienced software engineers."
-            },
-            {
-                "position": "Software Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/28L0aGcpt3rDZsrssvyQ4yH4OIbPVs4MJBoCO871aRyflK6w4D7DCQ?q=software+developer",
-                "subTitle": "Exeter College ApprenticeshipsPropriotec LTD - Exeter",
-                "shortDEscription": "Test and debug software to maintain high quality. Manage server operations to ensure the smooth functioning of our software."
-            },
-            {
-                "position": "Software Engineer",
-                "jobLink": "https://www.simplyhired.co.uk/job/DHqUl8C3_ddNlcN_HFY7YJi00DG-yWjdqMOW9mEuKzNeC0FTp61mxA?q=software+developer",
-                "subTitle": "Edenred - Swindon",
-                "shortDEscription": "Delivery of high quality software into production. Hybrid - Swindon or London - 2 days per month. We are further expanding our engineering teams as we evolve…"
+                "position": "Software Engineering Apprentice",
+                "jobLink": "https://www.simplyhired.co.uk/job/vSKQ2O6T0hDShcqQKYmIT0xPxx_OS2fRBoISD_yTNWmOzVb_oSwckg?q=software+developer",
+                "subTitle": "Teemill - Freshwater",
+                "shortDEscription": "Our coding apprenticeship programme takes people who love solving problems & who understand the basics of code, and turns them into professional web developers."
             },
             {
                 "position": "Software Engineering Apprenticeship",
@@ -118,10 +59,16 @@
                 "shortDEscription": "You’ll take on real business tasks in software engineering and receive full training and support throughout the programme. Interest-free season ticket loan."
             },
             {
-                "position": "Mendix Software Developer - (Part-Time, Job-Share and Full-Time)",
-                "jobLink": "https://www.simplyhired.co.uk/job/Eb31Da9wLLes0VspqgYNLxNPj1dbIOnKq8pFFxBrSviKf0vP1OzILA?q=software+developer",
-                "subTitle": "Zurich Insurance - Swindon",
-                "shortDEscription": "This role presents an opportunity not only for experienced Mendix developers but also for graduates who have some software development experience, to develop…"
+                "position": "Software Developer Apprentice",
+                "jobLink": "https://www.simplyhired.co.uk/job/EBOtN0aSfzjX0n8nyZbNhBvfBoPunAPovucigqNMDbgeI2ntq968hQ?q=software+developer",
+                "subTitle": "QA Apprenticeships - Lanarkshire +2 locations",
+                "shortDEscription": "Adare Sec have a rich heritage of partnering with financial and business services as well as the public sector to help improve communication between their…"
+            },
+            {
+                "position": "Software Development Internship",
+                "jobLink": "https://www.simplyhired.co.uk/job/2MHqQyn__pTsoVnYyW7HHBLNa6MRosbCnAq9vz3KfhvFzEXFOnvEdA?q=software+developer",
+                "subTitle": "Softwire - London",
+                "shortDEscription": "You and your intern colleagues will be exposed to the full delivery lifecycle, guided by experienced software engineers."
             },
             {
                 "position": "Software Developer, Apprentice",
@@ -130,16 +77,70 @@
                 "shortDEscription": "£32,804 per annum rising to £33,132 on successful completion of probation. Ofsted are partnering with Makers to offer a Level 4 Apprenticeship in Software…"
             },
             {
-                "position": "Software Developer In Test",
-                "jobLink": "https://www.simplyhired.co.uk/job/CO-TaDTq1QBPhNzvfI4P15kHjdlYN1pmz2KiyaIIbm5b0sJVv4QdOA?q=software+developer",
-                "subTitle": "Synapri - Remote",
-                "shortDEscription": "Experience with software engineering practices. Proficient with the full software development life cycle. The successful candidate will need to understand and…"
+                "position": "SQL Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/zfWUL1B4f4Epv5_p0mVpX0XllWpAv3eR0PgLMBhRo4Bl2Q4eWq8sFg?q=software+developer",
+                "subTitle": "University of Oxford - Oxford",
+                "shortDEscription": "In this role you will source and prepare data for analysis and perform standard business intelligence analysis as required for the research projects of the…"
             },
             {
-                "position": "Mainframe Developer",
-                "jobLink": "https://www.simplyhired.co.uk/job/40vwe_XSQTovnh3JfNX_RolYvPt252LBUNAn8zmvJUKSF1RHeXFiZg?q=software+developer",
-                "subTitle": "NFU Mutual - Stratford-upon-Avon",
-                "shortDEscription": "You will have a passion for understanding and applying new technical tools, processes, and technical developments, promoting continuous improvement in quality…"
+                "position": "Graduate Software Engineer (starting Q1 2024)",
+                "jobLink": "https://www.simplyhired.co.uk/job/t54THRsHD-k5HrwxQaYoBwJoCyd7_r_ntKCJSzz9Fdq1UlgAjArAVw?q=software+developer",
+                "subTitle": "Autodesk - Birmingham",
+                "shortDEscription": "The software we develop is both challenging and rewarding - from writing toolpath algorithms in C++ to developing web components in TypeScript - so we ensure…"
+            },
+            {
+                "position": "Software Developer - 100% Remote",
+                "jobLink": "https://www.simplyhired.co.uk/job/RHnKWGeKFKnYZhYivMMCSjlMrUdem44DdYCnJy1qWi375JKIFbDFdQ?q=software+developer",
+                "subTitle": "Performance - Manchester +11 locations",
+                "shortDEscription": "Embedded software experience is desired but not required. Positions are either full-time or hourly and you can work from your home in the UK."
+            },
+            {
+                "position": "Software Engineer - Frontend",
+                "jobLink": "https://www.simplyhired.co.uk/job/RZ_tkxM9KQ7wpGqxz0B3aX2bgP2W26UhsfZMTZ1hldk0dQQNQTBROQ?q=software+developer",
+                "subTitle": "Henry Schein One - Gillingham",
+                "shortDEscription": "Take full ownership of the product/feature from idea to operating in production. Work effectively with product managers, other engineers and business…"
+            },
+            {
+                "position": "Software Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/28L0aGcpt3rDZsrssvyQ4yH4OIbPVs4MJBoCO871aRyflK6w4D7DCQ?q=software+developer",
+                "subTitle": "Exeter College ApprenticeshipsPropriotec LTD - Exeter",
+                "shortDEscription": "Test and debug software to maintain high quality. Manage server operations to ensure the smooth functioning of our software."
+            },
+            {
+                "position": "Ensoft Software Engineer Internship - Summer 2024",
+                "jobLink": "https://www.simplyhired.co.uk/job/543cb_9TRQxNgoIUtIFFe7AiAGZFUadqoQ6Usxsdd1AywyWtD1nQ6w?q=software+developer",
+                "subTitle": "Cisco Systems - Harpenden",
+                "shortDEscription": "When available, the salary range posted for this position reflects the projected hiring range for new hire, full-time salaries in U.S. locations, not including…"
+            },
+            {
+                "position": "Frontend React Developer - Outside Ir35",
+                "jobLink": "https://www.simplyhired.co.uk/job/nWRbsOijVLu0KpBGhA-YIp-PdrBMZNK8QzZTM4bD83rL52mK2pqoZA?q=software+developer",
+                "subTitle": "Source Group International - London",
+                "shortDEscription": "Experience working in regulated organisation and Fintech is ideal. Experience with HTML5, CSS, and Typescript. Outside IR35 contract up to £700."
+            },
+            {
+                "position": "Senior Software Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/18fY72KY3tahxyDJE5Hvr6NUq_OpAjnQ3gV8p9xS8wnqfNOr88v-Qg?q=software+developer",
+                "subTitle": "Trust Payments - Manchester",
+                "shortDEscription": "Lead and mentor other software developers, providing guidance, support, and technical leadership throughout the software development lifecycle."
+            },
+            {
+                "position": "Software Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/qsJnqau2NMEelyjyNCPLVeBhEnVCvfOpcVZkz08v7WlWJoK6DlAQkg?q=software+developer",
+                "subTitle": "iCabbi - Sheffield",
+                "shortDEscription": "Employee Status: Full Time, Permanent. Experience: 2 years minimum in a Development Role working with PHP and the full LAMP stac."
+            },
+            {
+                "position": "Python Developer",
+                "jobLink": "https://www.simplyhired.co.uk/job/osIGHhNBOjNdTzTFQ3kT1OGG_cHBGMFZPtliu2kYgh7XRO72lXtpMw?q=software+developer",
+                "subTitle": "Synapri - Cambridge",
+                "shortDEscription": "Troubleshoot and resolve software defects and issues promptly. Stay updated on industry trends and emerging technologies, proactively incorporating them to…"
+            },
+            {
+                "position": "Mendix Software Developer - (Part-Time, Job-Share and Full-Time)",
+                "jobLink": "https://www.simplyhired.co.uk/job/Eb31Da9wLLes0VspqgYNLxNPj1dbIOnKq8pFFxBrSviKf0vP1OzILA?q=software+developer",
+                "subTitle": "Zurich Insurance - Swindon",
+                "shortDEscription": "This role presents an opportunity not only for experienced Mendix developers but also for graduates who have some software development experience, to develop…"
             }
         ]
     }
