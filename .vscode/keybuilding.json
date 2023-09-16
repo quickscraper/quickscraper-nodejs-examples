@@ -1,0 +1,168 @@
+[
+	{
+		"key": "ctrl+shift+q",
+		"command": "editor.action.formatDocument",
+		"when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+i",
+		"command": "-editor.action.formatDocument",
+		"when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+down",
+		"command": "editor.action.moveLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "alt+down",
+		"command": "-editor.action.moveLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+up",
+		"command": "editor.action.moveLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "alt+up",
+		"command": "-editor.action.moveLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+d",
+		"command": "editor.action.duplicateSelection"
+	},
+	{
+		"key": "ctrl+shift+backspace",
+		"command": "editor.action.referenceSearch.trigger"
+	},
+	{
+		"key": "ctrl+shift+numpad8",
+		"command": "editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+up",
+		"command": "-editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+alt+up",
+		"command": "-editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+numpad2",
+		"command": "editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+down",
+		"command": "-editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+/",
+		"command": "editor.action.formatSelection",
+		"when": "editorHasDocumentSelectionFormattingProvider && editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+k ctrl+f",
+		"command": "-editor.action.formatSelection",
+		"when": "editorHasDocumentSelectionFormattingProvider && editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+alt+oem_6",
+		"command": "editor.unfoldAll",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+k ctrl+j",
+		"command": "-editor.unfoldAll",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+shift+alt+j",
+		"command": "editor.action.transformToLowercase"
+	},
+	{
+		"key": "ctrl+shift+alt+h",
+		"command": "editor.action.transformToUppercase"
+	},
+	{
+		"key": "shift+alt+t",
+		"command": "-extension.translateTextPreferred",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+alt+t",
+		"command": "extension.translateText"
+	},
+	{
+		"key": "ctrl+shift+t",
+		"command": "-extension.translate"
+	},
+	{
+		"key": "ctrl+shift+alt+/",
+		"command": "editor.action.blockComment",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "shift+alt+a",
+		"command": "-editor.action.blockComment",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+alt+t",
+		"command": "editor.action.transformToTitlecase"
+	},
+	{
+		"key": "ctrl+r",
+		"command": "-workbench.action.openRecent"
+	},
+	{
+		"key": "ctrl+k ctrl+r",
+		"command": "-git.revertSelectedRanges",
+		"when": "isInDiffEditor"
+	},
+	{
+		"key": "ctrl+r",
+		"command": "-workbench.action.quickOpenNavigateNextInRecentFilesPicker",
+		"when": "inQuickOpen && inRecentFilesPicker"
+	},
+	{
+		"key": "ctrl+r",
+		"command": "workbench.action.reloadWindow"
+	},
+	{
+		"key": "ctrl+r",
+		"command": "-workbench.action.reloadWindow",
+		"when": "isDevelopment"
+	},
+	{
+		"key": "ctrl+shift+oem_4",
+		"command": "editor.foldAll",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+k ctrl+0",
+		"command": "-editor.foldAll",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+alt+oem_4",
+		"command": "editor.fold",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+shift+oem_4",
+		"command": "-editor.fold",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"key": "ctrl+shift+oem_4",
+		"command": "-notebook.fold",
+		"when": "notebookEditorFocused && !inputFocus && activeEditor == 'workbench.editor.notebook'"
+	}
+]
