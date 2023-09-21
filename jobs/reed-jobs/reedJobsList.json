@@ -1,0 +1,304 @@
+{
+	"isSuccess": true,
+	"data": {
+		"jobsList": [
+			{
+				"post": "Management Accountant",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/management-accountant/51222112?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£35,000 - £40,000 per annum",
+				"location": "Oldham",
+				"type": "Permanent, full-time",
+				"isEasyApply": "No",
+				"postedBy": "5 days ago by Marston Holdings Ltd",
+				"label": "Promoted",
+				"JobsfromMarstonHoldingsLtd": "https://www.reed.co.uk/jobs/marston-holdings-limited-97422/p97422"
+			},
+			{
+				"post": "Administrator",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/administrator/50718462?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£26,000 - £30,000 per annum",
+				"location": "Rotherwas",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "28 June by UBT",
+				"label": "Promoted",
+				"JobsfromUBT": "https://www.reed.co.uk/jobs/ubt/p20494"
+			},
+			{
+				"post": "Experienced Bookkeeper with Accounting software skills",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/experienced-bookkeeper-with-accounting-software-skills/51258102?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Salary negotiable",
+				"location": "Leicester",
+				"type": "Permanent, part-time",
+				"isEasyApply": "No",
+				"postedBy": "1 hr ago by Bipin Jewellers",
+				"label": "New",
+				"JobsfromBipinJewellers": "https://www.reed.co.uk/jobs/bipin-jewellers-99183/p99183"
+			},
+			{
+				"post": "Senior Payroll Manager - EMEA",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/senior-payroll-manager-emea/51257117?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£60,000 - £80,000 per annum",
+				"location": "Reading",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Verizon",
+				"label": "New",
+				"JobsfromVerizon": "https://www.reed.co.uk/jobs/verizon/p34230"
+			},
+			{
+				"post": "International Payroll Specialist",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/international-payroll-specialist/51256893?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Reading",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Primark",
+				"label": "New",
+				"jobsFromPrimark": "https://www.reed.co.uk/jobs/primark/o664437"
+			},
+			{
+				"post": "Head of Finance",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/head-of-finance/51256043?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Chertsey",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Compass Group UK & Ireland Ltd",
+				"label": "New",
+				"JobsfromCompassGroupUK&IrelandLtd": "https://www.reed.co.uk/jobs/compass-group-uk-ireland-ltd/p91215"
+			},
+			{
+				"post": "Finance Apprentice",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/finance-apprentice/50823906?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "City of London",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "13 July by Tradition (UK) Limited",
+				"label": "Easy Apply",
+				"JobsfromTradition(UK)Limited": "https://www.reed.co.uk/jobs/tradition-uk-limited-72603/p72603"
+			},
+			{
+				"post": "Legal Entity Controller",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/legal-entity-controller/51044241?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Salary negotiable",
+				"location": "City of London",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "17 August by Tradition (UK) Limited",
+				"label": "Easy Apply",
+				"JobsfromTradition(UK)Limited": "https://www.reed.co.uk/jobs/tradition-uk-limited-72603/p72603"
+			},
+			{
+				"post": "Sales Ledger Clerk",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/sales-ledger-clerk/51255021?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£22,000 per annum",
+				"location": "Nottingham",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Machine Mart",
+				"label": "New",
+				"JobsfromMachineMart": "https://www.reed.co.uk/jobs/machine-mart/p7205"
+			},
+			{
+				"post": "Payroll Officer",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/payroll-officer/51249865?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Seaford",
+				"type": "Permanent, full-time",
+				"isEasyApply": "No",
+				"postedBy": "Yesterday by Sussex HR Limited",
+				"label": "New",
+				"JobsfromSussexHRLimited": "https://www.reed.co.uk/jobs/sussex-hr-limited/p29985"
+			},
+			{
+				"post": "Part time Credit Controller",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/part-time-credit-controller/51249118?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£27,000 - £30,000 per annum",
+				"location": "Feltham",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Pertemps Heathrow",
+				"label": "New",
+				"JobsfromPertempsHeathrow": "https://www.reed.co.uk/jobs/pertemps-heathrow/p81892"
+			},
+			{
+				"post": "Credit Controller",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/credit-controller/51249045?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "London",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Right Digital Solutions Ltd",
+				"label": "New",
+				"JobsfromRightDigitalSolutionsLtd": "https://www.reed.co.uk/jobs/right-digital-solutions-ltd-87481/p87481"
+			},
+			{
+				"post": "Internal Auditor",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/internal-auditor/51248693?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Salary negotiable",
+				"location": "Milton Keynes",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Dawsongroup plc",
+				"label": "New",
+				"JobsfromDawsongroupplc": "https://www.reed.co.uk/jobs/dawson-group/p5488"
+			},
+			{
+				"post": "Sales Ledger Clerk",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/sales-ledger-clerk/51248114?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Chandler's Ford",
+				"type": "Permanent, part-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Draper Tools",
+				"label": "New",
+				"JobsfromDraperTools": "https://www.reed.co.uk/jobs/draper-tools-74541/p74541"
+			},
+			{
+				"post": "Part-time Bookkeeper ",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/part-time-bookkeeper/51248069?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Stoke-on-Trent",
+				"type": "Permanent, part-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by DJH Mitten Clarke Limited",
+				"label": "New",
+				"JobsfromDJHMittenClarkeLimited": "https://www.reed.co.uk/jobs/djh-mitten-clarke-limited-97609/p97609"
+			},
+			{
+				"post": "bookkeeper (to AAT Level 2 or ICB level 3 standard) / office administrator - 30 hours",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/bookkeeper-to-aat-level-2-or-icb-level-3-standard-office-administrator-30-hours/51247640?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£50,000 - £70,000 per annum, pro-rata",
+				"location": "East London",
+				"type": "Permanent, part-time",
+				"isEasyApply": "No",
+				"postedBy": "Yesterday by seele (UK) ltd.",
+				"label": "New",
+				"Jobsfromseele(UK)ltd.": "https://www.reed.co.uk/jobs/seele-uk-ltd-99095/p99095"
+			},
+			{
+				"post": "Credit Management Technician",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/credit-management-technician/51247031?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Salary negotiable",
+				"location": "Hampshire",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Ageas Insurance Limited",
+				"label": "New",
+				"JobsfromAgeasInsuranceLimited": "https://www.reed.co.uk/jobs/ageas-insurance-limited-42666/p42666"
+			},
+			{
+				"post": "Junior Accountant",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/junior-accountant/51246984?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£20,000 - £25,000 per annum",
+				"location": "Hatfield",
+				"type": "Permanent, full-time",
+				"isEasyApply": "No",
+				"postedBy": "Yesterday by Fusion Consulting Ltd",
+				"label": "New",
+				"JobsfromFusionConsultingLtd": "https://www.reed.co.uk/jobs/fusion-consulting-ltd/p49356"
+			},
+			{
+				"post": "Service Charge Accountant",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/service-charge-accountant/51246615?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£28,000 - £33,000 per annum",
+				"location": "Letchworth Garden City",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Cortland",
+				"label": "New",
+				"JobsfromCortland": "https://www.reed.co.uk/jobs/liv-group-limited-t-a-cortland-76261/p76261"
+			},
+			{
+				"post": "Payroll Manager",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/payroll-manager/51246538?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£30,000 - £35,000 per annum",
+				"location": "Camberley",
+				"type": "Permanent, full-time",
+				"isEasyApply": "No",
+				"postedBy": "Yesterday by Workwell",
+				"label": "New",
+				"JobsfromWorkwell": "https://www.reed.co.uk/jobs/jsa-services-ltd-84744/p84744"
+			},
+			{
+				"post": "Finance Officer",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/finance-officer/50970440?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£35,000 per annum",
+				"location": "Deeside Industrial Park",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "7 August by UBT",
+				"label": "Featured",
+				"JobsfromUBT": "https://www.reed.co.uk/jobs/ubt/p20494"
+			},
+			{
+				"post": "Pensions Payroll Assistant (Hybrid Working)",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/pensions-payroll-assistant-hybrid-working/51246079?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£21,000 - £23,000 per annum",
+				"location": "Preston",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Local Pensions Partnership",
+				"label": "New",
+				"JobsfromLocalPensionsPartnership": "https://www.reed.co.uk/jobs/local-pensions-partnership-56791/p56791"
+			},
+			{
+				"post": "Accountant",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/accountant/51245588?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£30,000 - £45,000 per annum",
+				"location": "Tunbridge Wells",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Vermelo RPO",
+				"label": "New",
+				"JobsfromVermeloRPO": "https://www.reed.co.uk/jobs/vermelorpo/p82558"
+			},
+			{
+				"post": "Purchase Ledger Administrator",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/purchase-ledger-administrator/51244810?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£24,000 - £26,000 per annum",
+				"location": "Leeds",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by SMUK",
+				"label": "New",
+				"JobsfromSMUK": "https://www.reed.co.uk/jobs/smuk-99182/p99182"
+			},
+			{
+				"post": "Accountant",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/accountant/51244309?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "London",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Saab UK",
+				"label": "New",
+				"JobsfromSaabUK": "https://www.reed.co.uk/jobs/saab-technologies-uk-limited/p90468"
+			},
+			{
+				"post": "Payroll Advisor - FTC",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/payroll-advisor-ftc/51243963?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "Competitive salary",
+				"location": "Reading",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Primark",
+				"label": "New",
+				"jobsFromPrimark": "https://www.reed.co.uk/jobs/primark/o664437"
+			},
+			{
+				"post": "Commercial Insurance Account Handle",
+				"postDetailsLink": "https://www.reed.co.uk/jobs/commercial-insurance-account-handle/51243063?source=searchResults&filter=%2Fjobs%2Faccountancy-jobs%3Fperm%3Dtrue%26direct%3Dtrue",
+				"salary": "£30,000 - £40,000 per annum",
+				"location": "Birmingham",
+				"type": "Permanent, full-time",
+				"isEasyApply": "Yes",
+				"postedBy": "Yesterday by Cobra Network",
+				"label": "New",
+				"JobsfromCobraNetwork": "https://www.reed.co.uk/jobs/cobra-network/p91836"
+			}
+		]
+	}
+}
